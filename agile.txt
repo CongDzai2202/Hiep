@@ -1,0 +1,6 @@
+product owner : Khách hàng làm việc chung với đội sự án
+nhóm phát triển : dev , tester
+scrum master : trưởng nhóm 
+product backlog : tài liệu của product owner 
+sprint backlog : giai đoạn 
+
